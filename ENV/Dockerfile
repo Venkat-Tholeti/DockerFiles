@@ -1,6 +1,6 @@
 FROM almalinux:9
-ENV  COURSE="devops" 
-     TRAINER="sivakumar"
+ENV  COURSE="devops" \
+     TRAINER="sivakumar" \
      HOURS="120hrs"
 CMD ["sleep", "1000"]
 

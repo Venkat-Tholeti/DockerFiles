@@ -1,6 +1,6 @@
 FROM almalinux:9
 LABEL  COURSE="devops" 
-       TRAINER="sivaKumar"
+       TRAINER="sivakumar"
        HOURS="120hrs"
 CMD ["sleep", "1000"]
 

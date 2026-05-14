@@ -1,3 +1,3 @@
 FROM nani:v1
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["sleep", "1000"]
 EXPOSE 80
